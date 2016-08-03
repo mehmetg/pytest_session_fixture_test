@@ -1,0 +1,6 @@
+venv-osx
+.cache/
+__pycache__/
+.idea/
+*.pyc
+
